@@ -94,4 +94,20 @@
 
 <img width="80%" src="https://streak-stats.demolab.com?user=DS0710-coder&theme=github-dark-dimmed&hide_border=true&background=0D1117"/>
 
+<br><br>
+
+### GitHub Trophies
+
+<br>
+
+<img width="80%" src="https://github-profile-trophy-fast.vercel.app/?username=DS0710-coder&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+<br><br>
+
+### Contribution Snake
+
+<br>
+
+<img src="https://raw.githubusercontent.com/DS0710-coder/DS0710-coder/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+
 </div>
