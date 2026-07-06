@@ -1,140 +1,488 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=DEV%20SHAH&fontSize=46&fontColor=B491FF&fontAlignY=42&desc=building%20toward%20intelligent%20systems,%20one%20product%20at%20a%20time&descAlignY=62&descSize=16&descColor=8B8B9E" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6366F1,65:7C3AED,100:9333EA&text=Dev%20Shah&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Building%20Intelligent%20Analytical%20Systems&descAlignY=58&animation=fadeIn"/>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Developer+Tooling;Data+Analytics;Repository+Intelligence;System+Design;Open+Source+Enthusiast;Currently+Building+Footydex+%E2%9A%BD)](https://git.io/typing-svg)
+
+<br><br>
+
+<a href="mailto:shahdev0710@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DS0710-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dev7shah">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=DS0710-coder&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/DS0710-coder?style=for-the-badge&color=7C3AED&labelColor=181717)
+
+![](https://img.shields.io/github/stars/DS0710-coder?affiliations=OWNER&style=for-the-badge&color=7C3AED&labelColor=181717)
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-<sub>MUMBAI, INDIA — INFORMATION TECHNOLOGY</sub>
-</div>
+# Building systems that make data more useful.
 
-<br/>
+I enjoy building software that extracts structure from complexity.
 
-Machine learning is the destination. Everything I build is a way of getting closer to it.
+Whether it's understanding large codebases, evaluating football players, or analyzing financial markets, I'm interested in transforming raw information into tools that help people make better decisions.
 
-I don't learn a technology by reading about it. I learn it by shipping something that needs it. SQL got learned by building software that depended on it. Docker got learned by deploying with it. Graph algorithms got learned by building [ContextL](#contextl). Web scraping got learned by building [Footydex](#footydex).
+Rather than chasing every new framework, I enjoy designing systems, building data pipelines, and solving problems that require analytical thinking.
 
-The projects below are the record of that process.
+---
 
-<br/>
+## Philosophy
 
-## Currently
-
+```text
+Collect Data
+      │
+      ▼
+Understand Structure
+      │
+      ▼
+Extract Patterns
+      │
+      ▼
+Build Useful Products
 ```
-→  Scaling Footydex from a scoring engine into a scouting platform
-→  Extending ContextL's retrieval graph beyond single-repo scope
-→  Reading toward the ML layer that sits on top of both
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br><br>
+
+## Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=opencv" height="48"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib"/>
+
+<br><br>
+
+## Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm"/>
+
+<br><br>
+
+## Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=networkx"/>
+
+</div>
+
+---
+
+# What I Enjoy Building
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Developer Tooling
+
+- Repository Intelligence
+- Code Analysis
+- Graph-based Retrieval
+- Automation
+- AI-assisted Development
+
+</td>
+
+<td width="50%">
+
+### Data Systems
+
+- Data Pipelines
+- Analytics
+- Interactive Dashboards
+- Scoring Systems
+- Decision Support Tools
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Featured Projects
+
+> *The projects below are things I'm actively building and improving.*
+<details open>
+
+<summary>
+
+# ⚽ Footydex — Football Transfer Intelligence Platform
+
+*Turning football data into scouting intelligence.*
+
+</summary>
+
+<br>
+
+> A data-driven platform designed to evaluate football players through performance, contextual, and market intelligence. Footydex combines statistics, analytics, and football knowledge to support smarter scouting and transfer decisions.
+
+<br>
+
+### Why I Built It
+
+Most football platforms present statistics.
+
+Footydex aims to answer a more interesting question:
+
+> **"How valuable is this player in today's transfer market?"**
+
+Rather than looking at isolated metrics, the platform evaluates players using multiple analytical dimensions to generate meaningful insights.
+
+---
+
+### Core Components
+
+| Component | Description |
+|-----------|-------------|
+| 📊 Performance Analysis | Position-aware evaluation using advanced player statistics |
+| 🌍 Context Engine | League strength, club environment & competition weighting |
+| 💰 Market Intelligence | Transfer value, contracts, injuries & market trends |
+| 📈 Visualization | Interactive dashboards & player comparisons |
+
+---
+
+### Current Features
+
+- Position-aware scoring system
+- Player comparison dashboard
+- Transfer intelligence
+- Performance visualization
+- Automated data collection
+- Interactive analytics
+
+---
+
+### Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib"/>
+
+<img src="https://skillicons.dev/icons?i=streamlit"/>
+
+</p>
+
+---
+
+### Data Sources
+
+- FBref
+- Transfermarkt
+- Custom Data Pipelines
+
+---
+
+### Status
+
+```text
+███████████████████░░░░░░░ 75%
+
+Currently expanding the scoring engine and
+building richer scouting dashboards.
 ```
 
-<br/>
-<br/>
+</details>
 
-## Products
+---
 
-<br/>
+<details open>
 
-<h3 id="footydex">01 — Footydex</h3>
+<summary>
 
-**A football transfer intelligence platform.**
+# 📦 ContextL — Repository Intelligence Engine
 
-Not a stats dashboard — a system for helping scouting decisions hold up under data. Footydex pulls performance data, contextual signals, and market intelligence into one place, scores players position-by-position, and is being built toward predictive modelling of transfer value and fit.
+*Helping AI understand codebases beyond embeddings.*
 
-The current version runs a full pipeline: scraped source data → cleaned and structured tables → a position-aware scoring engine → visualization layer. Predictive modelling is the next layer, not an afterthought.
+</summary>
 
-`Python`  `Streamlit`  `MySQL`  `Pandas`  `NumPy`  `Matplotlib`
+<br>
 
-[View on GitHub →](https://github.com/DS0710-coder/Footydex)
+ContextL explores a different approach to repository understanding.
 
-<br/>
+Instead of relying solely on vector embeddings, it represents repositories as structured graphs, allowing AI systems to navigate relationships between files, symbols, and dependencies more effectively.
 
-<h3 id="contextl">02 — ContextL</h3>
+---
 
-**A repository intelligence engine for AI coding agents.**
+### What It Does
 
-Most tools help an LLM understand a repository by embedding it. ContextL asks a different question: what if a codebase is better understood as a graph than as a bag of vectors?
+- Parses repositories into Abstract Syntax Trees
+- Builds repository knowledge graphs
+- Connects symbols across files
+- Ranks relevant context using BM25
+- Supports AI-assisted development workflows
 
-It parses source into an AST, builds a graph over that structure, and ranks relevance using BM25 and PageRank rather than nearest-neighbor search. The result is context retrieval built for how code actually relates to itself — with cached queries returning in sub-millisecond time.
+---
 
-`Python`  `Tree-sitter`  `NetworkX`  `MCP`  `BM25`  `PageRank`
+### Core Technologies
 
-[View on GitHub →](https://github.com/DS0710-coder/ContextL)
+| Technology | Purpose |
+|------------|---------|
+| Tree-sitter | Source code parsing |
+| NetworkX | Graph construction |
+| BM25 | Sparse retrieval |
+| MCP | AI integrations |
+| Python | Backend engine |
 
-<br/>
+---
 
-<h3>03 — Reliance Quant Analysis</h3>
+### Why It Interests Me
 
-**A quantitative backtest, done properly.**
+Large repositories contain structure that traditional retrieval often ignores.
 
-A moving-average crossover strategy (MA20/MA50) tested on two years of Reliance Industries data, benchmarked against buy-and-hold on annual return, Sharpe ratio, and maximum drawdown. Small in scope, precise in execution.
+ContextL is an exploration into making that structure useful for developers and AI coding assistants.
 
-`Python`  `Pandas`  `NumPy`  `Matplotlib`  `yfinance`
+---
 
-[View on GitHub →](https://github.com/DS0710-coder/Reliance-Quant-Analysis)
+### Status
 
-<br/>
-<br/>
+```text
+█████████████████░░░░░░░░░ 70%
 
-## The throughline
+Actively experimenting with retrieval,
+graph propagation and repository indexing.
+```
 
-Backend engineering is how intelligent systems get deployed. Data engineering is how they get fed. Analytics is how you reason about data before a model ever touches it. Developer tooling is how you understand the machinery underneath all of it.
+</details>
 
-None of these are detours. They're the path.
+---
 
-<br/>
-<br/>
+<details>
 
-## Stack
+<summary>
+
+# 📈 Reliance Quant Analysis
+
+*Exploring data-driven investing through quantitative analysis.*
+
+</summary>
+
+<br>
+
+A quantitative finance project focused on evaluating whether a simple moving-average crossover strategy can outperform a passive buy-and-hold approach.
+
+---
+
+### Highlights
+
+- Historical stock analysis
+- Strategy backtesting
+- Sharpe Ratio evaluation
+- Maximum Drawdown analysis
+- Performance visualization
+
+---
+
+### Tech Stack
+
+Python • Pandas • NumPy • Matplotlib • yfinance
+
+---
+
+### Status
+
+```text
+██████████████████████████ 100%
+```
+
+</details>
+
+---
+
+# Current Focus
+
+```yaml
+building:
+  - Footydex
+  - ContextL
+
+learning:
+  - Backend Engineering
+  - Cloud Technologies
+  - Data Engineering
+
+exploring:
+  - Repository Intelligence
+  - Graph Algorithms
+  - Football Analytics
+  - System Design
+
+goal:
+  Build software that transforms complex data
+  into useful products.
+```
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,docker,git,linux,vscode&theme=dark" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DS0710-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS0710-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
-
-`Python`  ·  `SQL`  ·  `Pandas / NumPy`  ·  `NetworkX`  ·  `Tree-sitter`  ·  `Docker`  ·  `Streamlit`  ·  `Git`
-
-<br/>
-<br/>
-
-## Numbers
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DS0710-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B491FF&icon_color=B491FF&text_color=8B8B9E" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS0710-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B491FF&text_color=8B8B9E" width="40%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DS0710-coder&theme=tokyonight&hide_border=true&background=0d1117&ring=B491FF&fire=B491FF&currStreakLabel=B491FF" width="60%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DS0710-coder&theme=tokyo-night&bg_color=0d1117&color=B491FF&line=B491FF&point=8B8B9E&hide_border=true" width="90%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=DS0710-coder&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-<!--
-  Snake animation — requires the Platane/snk GitHub Action set up on this repo.
-  Once enabled, uncomment the line below.
-
-  <img src="https://raw.githubusercontent.com/DS0710-coder/DS0710-coder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
--->
+# Contribution Activity
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DS0710-coder&label=profile%20views&color=B491FF&style=flat" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DS0710-coder&theme=tokyo-night&hide_border=true&area=true"/>
+
 </div>
 
-<br/>
-<br/>
+---
+
+# GitHub Trophies
 
 <div align="center">
 
-<sub>shahdev0710@gmail.com · <a href="https://linkedin.com/in/dev7shah">linkedin</a></sub>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DS0710-coder&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DS0710-coder/DS0710-coder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> **Note:** You'll need to enable a GitHub Action to generate the snake animation automatically. I'll help you set that up once the README is finished.
+
+---
+
+# Current Workspace
+
+```text
+📂 Projects
+├── 📦 ContextL
+├── ⚽ Footydex
+└── 📈 Quant Analysis
+
+🧠 Interests
+├── Developer Tooling
+├── Data Analytics
+├── System Design
+├── Repository Intelligence
+└── Football Analytics
+
+☕ Currently
+├── Writing Python
+├── Building Products
+├── Reading Documentation
+└── Learning Something New
+```
+
+---
+
+# Beyond the Code
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Currently Exploring
+
+- Graph Algorithms
+- Backend Systems
+- Cloud Technologies
+- AI-assisted Development
+- Open Source
+
+</td>
+
+<td width="50%">
+
+### Fun Facts
+
+- ⚽ Football analytics enthusiast
+- 🐍 Python-first developer
+- 📊 I enjoy working with data
+- 🧩 I like solving analytical problems
+- 🚀 Always building something
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:shahdev0710@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dev7shah">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DS0710-coder">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Building tools that turn complexity into clarity."*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,35:6366F1,65:7C3AED,100:9333EA"/>
 
 </div>
