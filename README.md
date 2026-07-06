@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="mailto:shahshahdev071234@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shahshahdev071234@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"/>
 </a>
 <a href="https://linkedin.com/in/dev7shah" target="_blank" rel="noopener noreferrer">
@@ -71,9 +71,9 @@
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **Data Analytics & Modeling** | <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,sklearn" height="28"/> |
-| **Developer Tooling & Graphs** | <img src="https://skillicons.dev/icons?i=git,linux,docker,bash,vim" height="28"/> |
-| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,postgres,fastapi,vscode,github" height="28"/> |
+| **Data Analytics & Modeling** | <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" height="28"/> |
+| **Developer Tooling & Graphs** | <img src="https://skillicons.dev/icons?i=git,linux,docker,bash" height="28"/> <img src="https://img.shields.io/badge/NetworkX-242938?style=flat-square&logo=python&logoColor=white" height="28"/> |
+| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,postgres,fastapi,vscode" height="28"/> |
 
 </div>
 
