@@ -71,9 +71,9 @@
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **Data Analytics & Modeling** | <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" height="28"/> |
-| **Developer Tooling & Graphs** | <img src="https://skillicons.dev/icons?i=git,linux,docker,bash" height="28"/> |
-| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode" height="28"/> |
+| **Data Analytics & Modeling** | <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Pandas-181717?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-181717?style=flat-square&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Matplotlib-181717?style=flat-square&logo=python&logoColor=white"/> |
+| **Developer Tooling & Graphs** | <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Bash-181717?style=flat-square&logo=gnu-bash&logoColor=white"/> |
+| **Databases & Infrastructure** | <img src="https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/VS%20Code-181717?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/> |
 
 </div>
 
