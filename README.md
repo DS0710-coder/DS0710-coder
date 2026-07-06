@@ -14,6 +14,9 @@
 <a href="https://linkedin.com/in/dev7shah" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111"/>
 </a>
+<a href="https://contextl.web.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ContextL-contextl.web.app-181717?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111111"/>
+</a>
 
 <br><br>
 
@@ -33,7 +36,7 @@
  ║                                                                             ║
  ║  Focus      : Data Analytics • Repository Intelligence • Systems Design     ║
  ║  Core Stack : Python • SQL • Pandas • NumPy • Matplotlib                    ║
- ║  Flagship   : ContextL (Repository Intelligence Engine)                     ║
+ ║  Flagship   : ContextL (contextl.web.app | Repository Intelligence)         ║
  ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -41,12 +44,13 @@
 
 ### Featured Projects
 
-#### <a href="https://github.com/DS0710-coder/ContextL" target="_blank" rel="noopener noreferrer">ContextL</a> — *Repository Intelligence & AST Engine*
-> Going beyond standard search: Using Abstract Syntax Trees (ASTs) and knowledge graphs to map codebase structures and relationships.
+#### <a href="https://contextl.web.app" target="_blank" rel="noopener noreferrer">ContextL</a> — *Repository Intelligence & AST Engine*
+> Going beyond standard search: Using Abstract Syntax Trees (ASTs) and knowledge graphs to map codebase structures and relationships.  
+> **Live Web Application:** <a href="https://contextl.web.app" target="_blank" rel="noopener noreferrer">**contextl.web.app**</a> • **GitHub Repository:** <a href="https://github.com/DS0710-coder/ContextL" target="_blank" rel="noopener noreferrer">**DS0710-coder/ContextL**</a>
 
 | Why It Matters | Tech Stack | Status |
 | :--- | :--- | :---: |
-| Maps complex repositories into structured graph models, enabling deep structural analysis and developer navigation across codebases. | `Python` • `Tree-sitter` • `BM25` • `MCP` | ![](https://img.shields.io/badge/Active%20Dev-333333?style=flat-square) |
+| Maps complex repositories into structured graph models, enabling deep structural analysis and developer navigation across codebases. | `Python` • `Tree-sitter` • `BM25` • `MCP` | <a href="https://contextl.web.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live%20App-contextl.web.app-181717?style=flat-square&logo=googlechrome&logoColor=white"/></a> <br> ![](https://img.shields.io/badge/Active%20Dev-333333?style=flat-square) |
 
 ---
 
