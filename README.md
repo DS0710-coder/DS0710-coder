@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+Developer+Tooling+Engineer;Repository+Intelligence+%26+AST+Analysis;Quantitative+Modeling+%26+Data+Pipelines;Turning+Complexity+into+Structure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+Developer+Tooling+Programmer;Repository+Intelligence+%26+AST+Analysis;Quantitative+Modeling+%26+Data+Pipelines;Turning+Complexity+into+Structure)](https://git.io/typing-svg)
 
 <br>
 
@@ -29,7 +29,7 @@
 
 ```text
  ╔═════════════════════════════════════════════════════════════════════════════╗
- ║  DEV SHAH | Data Analytics & Developer Tooling Engineer                     ║
+ ║  DEV SHAH | Data Analytics & Developer Tooling Programmer                   ║
  ║                                                                             ║
  ║  Focus      : Data Analytics • Repository Intelligence • Systems Design     ║
  ║  Core Stack : Python • SQL • Pandas • NetworkX • Tree-sitter                ║
