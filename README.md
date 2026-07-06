@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%" alt="Dev Shah"/>
+<img src="https://raw.githubusercontent.com/DS0710-coder/DS0710-coder/main/assets/header.png" width="850" alt="Dev Shah"/>
 
 <br><br>
 
@@ -32,7 +32,7 @@
  ║  DEV SHAH | Data Analytics & Developer Tooling Programmer                   ║
  ║                                                                             ║
  ║  Focus      : Data Analytics • Repository Intelligence • Systems Design     ║
- ║  Core Stack : Python • SQL • Pandas • NetworkX • Tree-sitter                ║
+ ║  Core Stack : Python • SQL • Pandas • NumPy • Matplotlib                    ║
  ║  Flagship   : ContextL (Repository Intelligence Engine)                     ║
  ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -46,7 +46,7 @@
 
 | Why It Matters | Tech Stack | Status |
 | :--- | :--- | :---: |
-| Maps complex repositories into structured graph models, enabling deep structural analysis and developer navigation across codebases. | `Python` • `Tree-sitter` • `NetworkX` • `BM25` • `MCP` | ![](https://img.shields.io/badge/Active%20Dev-333333?style=flat-square) |
+| Maps complex repositories into structured graph models, enabling deep structural analysis and developer navigation across codebases. | `Python` • `Tree-sitter` • `BM25` • `MCP` | ![](https://img.shields.io/badge/Active%20Dev-333333?style=flat-square) |
 
 ---
 
@@ -72,8 +72,8 @@
 | Domain | Tools & Frameworks |
 | :--- | :--- |
 | **Data Analytics & Modeling** | <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" height="28"/> |
-| **Developer Tooling & Graphs** | <img src="https://skillicons.dev/icons?i=git,linux,docker,bash" height="28"/> <img src="https://img.shields.io/badge/NetworkX-242938?style=flat-square&logo=python&logoColor=white" height="28"/> |
-| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,postgres,fastapi,vscode" height="28"/> |
+| **Developer Tooling & Graphs** | <img src="https://skillicons.dev/icons?i=git,linux,docker,bash" height="28"/> |
+| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,postgres,vscode" height="28"/> |
 
 </div>
 
