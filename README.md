@@ -83,8 +83,8 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=DS0710-coder&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&bg_color=0D1117"/>
-<img height="155em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=DS0710-coder&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117"/>
+<img height="155em" src="https://github-readme-stats-fast.vercel.app/api?username=DS0710-coder&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&bg_color=0D1117"/>
+<img height="155em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DS0710-coder&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
