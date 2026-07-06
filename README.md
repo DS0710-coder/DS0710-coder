@@ -71,9 +71,9 @@
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **Data Analytics & Modeling** | <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib" height="28"/> |
-| **Developer Tooling & Graphs** | <img src="https://go-skill-icons.vercel.app/api/icons?i=networkx,git,linux,docker,bash" height="28"/> |
-| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,postgres,fastapi,vscode" height="28"/> |
+| **Data Analytics & Modeling** | <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,sklearn" height="28"/> |
+| **Developer Tooling & Graphs** | <img src="https://skillicons.dev/icons?i=git,linux,docker,bash,vim" height="28"/> |
+| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,postgres,fastapi,vscode,github" height="28"/> |
 
 </div>
 
