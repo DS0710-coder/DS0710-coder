@@ -4,18 +4,15 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Data+Science+Engineer;Graph+Intelligence+%26+AST+Analysis;Quantitative+Modeling+%26+Data+Pipelines;Turning+Raw+Data+into+Actionable+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+Developer+Tooling+Engineer;Repository+Intelligence+%26+AST+Analysis;Quantitative+Modeling+%26+Data+Pipelines;Turning+Complexity+into+Structure)](https://git.io/typing-svg)
 
 <br>
 
-<a href="mailto:shahdev0710@gmail.com">
+<a href="mailto:shahshahdev071234@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white&labelColor=111111"/>
 </a>
-<a href="https://linkedin.com/in/dev7shah">
+<a href="https://linkedin.com/in/dev7shah" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111"/>
-</a>
-<a href="https://github.com/DS0710-coder">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=111111"/>
 </a>
 
 <br><br>
@@ -32,11 +29,11 @@
 
 ```text
  ╔═════════════════════════════════════════════════════════════════════════════╗
- ║  DEV SHAH | AI/ML Engineer & Data Scientist                                 ║
+ ║  DEV SHAH | Data Analytics & Developer Tooling Engineer                     ║
  ║                                                                             ║
- ║  Focus      : Quantitative Modeling • Machine Learning • Data Systems       ║
- ║  Core Stack : Python • PyTorch/ML • Pandas • NetworkX • SQL                 ║
- ║  Flagship   : ContextL (AI Repository Intelligence Engine)                  ║
+ ║  Focus      : Data Analytics • Repository Intelligence • Systems Design     ║
+ ║  Core Stack : Python • SQL • Pandas • NetworkX • Tree-sitter                ║
+ ║  Flagship   : ContextL (Repository Intelligence Engine)                     ║
  ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -44,16 +41,16 @@
 
 ### Featured Projects
 
-#### [ContextL](https://github.com/DS0710-coder/ContextL) — *AI & Repository Intelligence Engine*
-> Going beyond vector embeddings: Using Abstract Syntax Trees (ASTs) and knowledge graphs for AI codebase understanding.
+#### <a href="https://github.com/DS0710-coder/ContextL" target="_blank" rel="noopener noreferrer">ContextL</a> — *Repository Intelligence & AST Engine*
+> Going beyond standard search: Using Abstract Syntax Trees (ASTs) and knowledge graphs to map codebase structures and relationships.
 
 | Why It Matters | Tech Stack | Status |
 | :--- | :--- | :---: |
-| Maps complex codebases into structured graph models so LLMs and AI coding assistants can reason with high spatial accuracy. | `Python` • `Tree-sitter` • `NetworkX` • `BM25` • `MCP` | ![](https://img.shields.io/badge/Active%20Dev-333333?style=flat-square) |
+| Maps complex repositories into structured graph models, enabling deep structural analysis and developer navigation across codebases. | `Python` • `Tree-sitter` • `NetworkX` • `BM25` • `MCP` | ![](https://img.shields.io/badge/Active%20Dev-333333?style=flat-square) |
 
 ---
 
-#### [Footydex](https://github.com/DS0710-coder/Footydex) — *Data Science & Football Valuation Platform*
+#### <a href="https://github.com/DS0710-coder/Footydex" target="_blank" rel="noopener noreferrer">Footydex</a> — *Data Analytics & Football Valuation Platform*
 > Multi-dimensional quantitative scoring engine for football transfer market intelligence.
 
 | Approach | Tech Stack | Status |
@@ -62,9 +59,9 @@
 
 ---
 
-#### [Reliance Quant Analysis](https://github.com/DS0710-coder) — *Algorithmic Trading & Backtesting*
-> Quantitative backtesting of moving-average crossover strategies vs. buy-and-hold investing.
-* Calculated historical Sharpe Ratios, Maximum Drawdowns, and risk-adjusted returns using `Python`, `Pandas`, and `yfinance`.
+#### <a href="https://github.com/DS0710-coder" target="_blank" rel="noopener noreferrer">Reliance Quant Analysis</a> — *Algorithmic Backtesting & Financial Analytics*
+> Quantitative evaluation of moving-average crossover strategies vs. buy-and-hold investing.
+* Conducted historical Sharpe Ratio optimization, Maximum Drawdown analysis, and risk-adjusted return calculations using `Python`, `Pandas`, and `yfinance`.
 
 ---
 
@@ -74,9 +71,9 @@
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **AI, Machine Learning & Graphs** | <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,scikit-learn,opencv,networkx" height="28"/> |
-| **Data Science & Analytics** | <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib,r" height="28"/> |
-| **Databases & Pipelines** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,docker,git,linux" height="28"/> |
+| **Data Analytics & Modeling** | <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matplotlib,r" height="28"/> |
+| **Developer Tooling & Graphs** | <img src="https://go-skill-icons.vercel.app/api/icons?i=networkx,git,linux,docker,bash" height="28"/> |
+| **Databases & Infrastructure** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,fastapi,vscode" height="28"/> |
 
 </div>
 
