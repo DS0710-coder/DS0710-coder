@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./public/header.png" width="450" alt="<- loves $ money"/>
-
-<br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Data+Science+Engineer;Graph+Intelligence+%26+AST+Analysis;Quantitative+Modeling+%26+Data+Pipelines;Turning+Raw+Data+into+Actionable+Intelligence)](https://git.io/typing-svg)
 
 <br>
@@ -30,10 +26,6 @@
 
 ### Profile Snapshot
 
-<table>
-<tr>
-<td width="70%" valign="middle">
-
 ```text
  ╔═════════════════════════════════════════════════════════════════════════════╗
  ║  DEV SHAH | AI/ML Engineer & Data Scientist                                 ║
@@ -43,15 +35,6 @@
  ║  Flagship   : ContextL (AI Repository Intelligence Engine)                  ║
  ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-<img src="./public/keycaps.png" width="130" alt="i feel so :)"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
