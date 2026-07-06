@@ -78,14 +78,6 @@
 
 <br><br>
 
-### GitHub Trophies
-
-<br>
-
-<img width="95%" src="https://github-profile-trophy-fast.vercel.app/?username=DS0710-coder&theme=github_dark_dimmed&no-frame=false&no-bg=false&row=4&column=2&margin-w=10&margin-h=10"/>
-
-<br><br>
-
 ### Contribution Snake
 
 <br>
