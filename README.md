@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/header.png" width="100%" alt="Dev Shah"/>
+
+<br><br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Data+Science+Engineer;Graph+Intelligence+%26+AST+Analysis;Quantitative+Modeling+%26+Data+Pipelines;Turning+Raw+Data+into+Actionable+Intelligence)](https://git.io/typing-svg)
 
 <br>
